@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nicholas, an <a href="www.linkedin.com/in/nicholas-virgil-9809b963">IT Professional</a>☺</h1>
+<h1>Hi, I'm Nicholas, an IT Professiona</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
