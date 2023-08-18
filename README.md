@@ -3,7 +3,7 @@
 <h2>👨🏾‍💻 Information Technology Projects:</h2>
 
 - <strong>Microsoft Azure</strong>
-  - [Configuring Active Directory within Azure VMs]()
+  - [Configuring Active Directory within Azure VMs](https://www.youtube.com/watch?v=asL_fWUxj6o)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NicholasVirgil/azure-network-protocols)
 
 <h2>Connect with me:</h2>
